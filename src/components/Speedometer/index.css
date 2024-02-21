@@ -1,0 +1,60 @@
+/* Write your CSS here */
+
+.bg-conatiner {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  color: #ffffff;
+  height: 35px;
+  font-family: 'Roboto';
+}
+.img-image {
+  height: 40vh;
+}
+
+.heading1 {
+  height: 8px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.description {
+  color: #cbd5e1;
+  font-size: 12px;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  border: none;
+  border-radius: 4px;
+}
+
+.button1 {
+  color: #cbd5e1;
+  background-color: black;
+  border-color: #cbd5e1;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 8px;
+  border: none;
+  border-radius: 4px;
+}
